@@ -18,7 +18,8 @@ Checkout/Contact/Final Action Screen.
 
 ## Output:
 
-![Screenshot 2025-06-01 195917](https://github.com/user-attachments/assets/492decf3-94c5-46d4-8231-70dda802d66e)
+<img width="989" height="367" alt="image" src="https://github.com/user-attachments/assets/39a2d232-f3d4-4ab7-a51c-36c928032b40" />
+
 
 ## Result:
 
